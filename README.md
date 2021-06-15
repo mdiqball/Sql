@@ -1,2 +1,2 @@
-# repo_sql
-Basic, Intermediate, Advance SQL
+# Sql
+penjelasan sekitar Basic, Intermediate, Advance SQL
